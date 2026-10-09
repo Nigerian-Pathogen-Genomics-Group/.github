@@ -1,4 +1,4 @@
-# Nigerian Pathogen Genomics Group (NPGG) 🇳🇬
+# Nigerian Pathogen Genomics Group (NPGG)
 
 > Advancing pathogen genomics, parasite genomics, microbiome research, and bioinformatics through collaborative science, reproducible workflows, and capacity building.
 
@@ -12,13 +12,14 @@ We aim to strengthen genomics and bioinformatics research capacity in Nigeria th
 
 ## Our Research Areas
 
- **Pathogen Genomics:** Genome characterization, comparative genomics, molecular epidemiology, and evolutionary analysis of infectious agents.
- **Parasite Genomics and Molecular Parasitology:** Genomic and molecular investigation of parasites, their diversity, evolution, transmission, and relationships with their hosts.
- **Microbiome Research:** Computational analysis of microbial communities associated with human health, disease, animals, and the environment.
- **Microbial Ecology and Environmental Genomics:** Exploring microbial diversity, community structure, and interactions across different environments.
- **Infectious Disease Research and Genomic Surveillance:** Applying genomic and bioinformatics approaches to investigate infectious diseases and support public health surveillance.
- **Antimicrobial Resistance (AMR):** Investigating the genetic basis, distribution, and evolution of antimicrobial resistance in relevant microbial populations.
- **Computational Biology, Data Science, and Machine Learning:** Applying statistical analysis, bioinformatics, and machine learning to genomic, microbiome, and other biological datasets.
+* **Pathogen Genomics:** Genome characterization, comparative genomics, molecular epidemiology, and evolutionary analysis of infectious agents.
+* **Parasite Genomics and Molecular Parasitology:** Genomic and molecular investigation of parasites, their diversity, evolution, transmission, and relationships with their hosts.
+* **Microbiome Research:** Computational analysis of microbial communities associated with human health, disease, animals, and the environment.
+* **Microbial Ecology and Environmental Genomics:** Exploring microbial diversity, community structure, and interactions across different environments.
+* **Infectious Disease Research and Genomic Surveillance:** Applying genomic and bioinformatics approaches to investigate infectious diseases and support public health surveillance.
+* **Antimicrobial Resistance (AMR):** Investigating the genetic basis, distribution, and evolution of antimicrobial resistance in relevant microbial populations.
+* **Computational Biology, Data Science, and Machine Learning:** Applying statistical analysis, bioinformatics, and machine learning to genomic, microbiome, and other biological datasets.
+
 
 ## What We Do
 
@@ -64,6 +65,6 @@ More information about our research projects, training activities, and collabora
 
 ---
 
-**Nigerian Pathogen Genomics Group (NPGG)** 🇳🇬
+**Nigerian Pathogen Genomics Group (NPGG)**
 
 *Genomics · Microbiomes · Parasites · Bioinformatics · Collaborative Science*
